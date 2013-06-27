@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Meny
 
 A three dimensional and space effecient menu. Meny works best in browsers with support for CSS 3D transforms, although it falls back on 2D animation for older browsers. Supports touch events for mobile devices.
@@ -127,3 +128,7 @@ meny.addEventListener( 'close', function() {
 MIT licensed
 
 Copyright (C) 2012 Hakim El Hattab, http://hakim.se
+=======
+mpi2_test3
+==========
+>>>>>>> 4b529dc05a04400e6e43466ddbd0fcdfa44abdd6
